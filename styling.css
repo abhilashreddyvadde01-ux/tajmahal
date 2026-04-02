@@ -1,0 +1,28 @@
+.bg {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/tower-bg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.head {
+    color: white;
+    padding: 8px;
+    font-family: Roboto;
+    font-size: 20px;
+
+}
+
+.card {
+    color: black;
+    background-color: white;
+    padding: 10px;
+}
+
+.taj {
+    padding: 10px;
+}
+
+.lis {
+    padding: 10px;
+}
